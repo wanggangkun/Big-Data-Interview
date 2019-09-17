@@ -9,3 +9,4 @@
 * #### [String的不可变性、虚拟机的常量池中的String字符串、String.intern()的底层原理](1.%20Java基础篇/1.%20语言基础/5.%20String的不可变性、虚拟机的常量池中的String字符串、String.intern()的底层原理.md)
 * #### [Java语言中的关键字：final](1.%20Java基础篇/1.%20语言基础/6.%20Java语言中的关键字：final.md)
 * #### [Java语言中的关键字：static](1.%20Java基础篇/1.%20语言基础/7.%20Java语言中的关键字：static.md)
+* #### [Java语言中的关键字：transient](1.%20Java基础篇/1.%20语言基础/8.%20Java语言中的关键字：transient.md)
