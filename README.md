@@ -10,3 +10,4 @@
 * #### [Java语言中的关键字：final](1.%20Java基础篇/1.%20语言基础/6.%20Java语言中的关键字：final.md)
 * #### [Java语言中的关键字：static](1.%20Java基础篇/1.%20语言基础/7.%20Java语言中的关键字：static.md)
 * #### [Java语言中的关键字：transient](1.%20Java基础篇/1.%20语言基础/8.%20Java语言中的关键字：transient.md)
+* #### [Java语言中的关键字：instanceof](1.%20Java基础篇/1.%20语言基础/9.%20Java语言中的关键字：instanceof.md)
