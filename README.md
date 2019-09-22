@@ -12,3 +12,4 @@
 * #### [Java语言中的关键字：transient](1.%20Java基础篇/1.%20语言基础/8.%20Java语言中的关键字：transient.md)
 * #### [Java语言中的关键字：instanceof](1.%20Java基础篇/1.%20语言基础/9.%20Java语言中的关键字：instanceof.md)
 * #### [Java语言中的关键字：volatile](1.%20Java基础篇/1.%20语言基础/10.%20Java语言中的关键字：volatile.md)
+* #### [Java语言中的关键字：synchronized](1.%20Java基础篇/1.%20语言基础/11.%20Java语言中的关键字：synchronized.md)
