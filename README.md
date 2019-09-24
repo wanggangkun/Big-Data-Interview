@@ -14,3 +14,4 @@
 * #### [Java语言中的关键字：volatile](1.%20Java基础篇/1.%20语言基础/10.%20Java语言中的关键字：volatile.md)
 * #### [Java语言中的关键字：synchronized](1.%20Java基础篇/1.%20语言基础/11.%20Java语言中的关键字：synchronized.md)
 * #### [Java中常用的集合类：ArrayList](1.%20Java基础篇/1.%20语言基础/12.%20Java中常用的集合类：ArrayList.md)
+* #### [Java中常用的集合类：LinkedList](1.%20Java基础篇/1.%20语言基础/13.%20Java中常用的集合类：LinkedList.md)
