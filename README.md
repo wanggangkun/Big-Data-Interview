@@ -16,3 +16,4 @@
 * #### [Java中常用的集合类：ArrayList](1.%20Java基础篇/1.%20语言基础/12.%20Java中常用的集合类：ArrayList.md)
 * #### [Java中常用的集合类：LinkedList](1.%20Java基础篇/1.%20语言基础/13.%20Java中常用的集合类：LinkedList.md)
 * #### [Java中常用的集合类：SynchronizedList](1.%20Java基础篇/1.%20语言基础/14.%20Java中常用的集合类：SynchronizedList.md)
+* #### [Java中常用的集合类：HashMap](1.%20Java基础篇/1.%20语言基础/14.%20Java中常用的集合类：HashMap.md)
