@@ -20,3 +20,5 @@
 * #### [Java中常用的集合类：Hashtable](1.%20Java基础篇/1.%20语言基础/16.%20Java中常用的集合类：Hashtable.md)
 * #### [Java中常用的集合类：ConcurrentHashMap](1.%20Java基础篇/1.%20语言基础/17.%20Java中常用的集合类：ConcurrentHashMap.md)
 * #### [动态代理的实现方式](1.%20Java基础篇/1.%20语言基础/18.%20动态代理的实现方式.md)
+### 锁
+* #### [CAS](1.%20Java基础篇/2.%20锁/1.%20CAS.md)
