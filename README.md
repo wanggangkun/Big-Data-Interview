@@ -46,3 +46,4 @@
 * #### [submit()和execute()](1.%20Java基础篇/3.%20多线程/8.%20submit()和execute().md)
 * #### [线程池原理](1.%20Java基础篇/3.%20多线程/9.%20线程池原理.md)
 * #### [为什么不允许使用Executors创建线程池](1.%20Java基础篇/3.%20多线程/10.%20为什么不允许使用Executors创建线程池.md)
+* #### [ThreadLocal变量](1.%20Java基础篇/3.%20多线程/11.%20ThreadLocal变量.md)
