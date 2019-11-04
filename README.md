@@ -48,3 +48,4 @@
 * #### [为什么不允许使用Executors创建线程池](1.%20Java基础篇/3.%20多线程/10.%20为什么不允许使用Executors创建线程池.md)
 * #### [ThreadLocal变量](1.%20Java基础篇/3.%20多线程/11.%20ThreadLocal变量.md)
 * #### [ThreadPoolExecutor创建线程池](1.%20Java基础篇/3.%20多线程/12.%20ThreadPoolExecutor创建线程池.md)
+* #### [线程池关闭的方式](1.%20Java基础篇/3.%20多线程/13.%20线程池关闭的方式.md)
