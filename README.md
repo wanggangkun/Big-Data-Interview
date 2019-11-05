@@ -5,7 +5,7 @@
     - [语言基础](#语言基础)
     - [锁](#锁)
     - [多线程](#多线程)
-    - [并发容器(J.U.C)](#并发容器)
+    - [并发容器](#并发容器)
     
 
 ## Java基础篇
@@ -57,6 +57,6 @@
 * #### [ThreadLocal变量](1.%20Java基础篇/3.%20多线程/11.%20ThreadLocal变量.md)
 * #### [ThreadPoolExecutor创建线程池](1.%20Java基础篇/3.%20多线程/12.%20ThreadPoolExecutor创建线程池.md)
 * #### [线程池关闭的方式](1.%20Java基础篇/3.%20多线程/13.%20线程池关闭的方式.md)
-### 并发容器(J.U.C)
+### 并发容器
 * #### [CopyOnWriteArrayList](1.%20Java基础篇/4.%20并发容器(J.U.C)/1.%20CopyOnWriteArrayList.md)
 
