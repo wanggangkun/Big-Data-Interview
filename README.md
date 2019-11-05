@@ -58,5 +58,5 @@
 * #### [ThreadPoolExecutor创建线程池](1.%20Java基础篇/3.%20多线程/12.%20ThreadPoolExecutor创建线程池.md)
 * #### [线程池关闭的方式](1.%20Java基础篇/3.%20多线程/13.%20线程池关闭的方式.md)
 ### 并发容器
-* #### [CopyOnWriteArrayList](1.%20Java基础篇/4.%20并发容器(J.U.C)/1.%20CopyOnWriteArrayList.md)
+* #### [CopyOnWriteArrayList](1.%20Java基础篇/4.%20并发容器/1.%20CopyOnWriteArrayList.md)
 
