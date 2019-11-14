@@ -66,3 +66,4 @@
 * #### [ConcurrentLinkedDeque](1.%20Java基础篇/4.%20并发容器/6.%20ConcurrentLinkedDeque.md)
 * #### [ArrayBlockingQueue](1.%20Java基础篇/4.%20并发容器/7.%20ArrayBlockingQueue.md)
 * #### [LinkedBlockingQueue](1.%20Java基础篇/4.%20并发容器/8.%20LinkedBlockingQueue.md)
+* #### [LinkedBlockingDeque](1.%20Java基础篇/4.%20并发容器/9.%20LinkedBlockingDeque.md)
