@@ -6,6 +6,8 @@
     - [锁](#锁)
     - [多线程](#多线程)
     - [并发容器](#并发容器)
+- [JVM](#JVM)
+    - [JVM内存结构](#JVM内存结构)
     
 
 ## Java基础篇
@@ -67,3 +69,6 @@
 * #### [ArrayBlockingQueue](1.%20Java基础篇/4.%20并发容器/7.%20ArrayBlockingQueue.md)
 * #### [LinkedBlockingQueue](1.%20Java基础篇/4.%20并发容器/8.%20LinkedBlockingQueue.md)
 * #### [LinkedBlockingDeque](1.%20Java基础篇/4.%20并发容器/9.%20LinkedBlockingDeque.md)
+## JVM
+### JVM内存结构
+* #### [class文件格式](2.%20JVM/1.%20JVM内存结构/1.%20class文件格式.md)
