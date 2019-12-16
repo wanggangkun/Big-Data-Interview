@@ -12,6 +12,7 @@
     - [Java内存模型](#Java内存模型)
     - [垃圾回收](#垃圾回收)
     - [Java对象模型](#Java对象模型)
+    - [HotSpot](#HotSpot)
     
 
 ## Java基础篇
@@ -100,3 +101,5 @@
 ### Java对象模型
 * #### [oop-klass](2.%20JVM/5.%20Java对象模型/1.%20oop-klass.md)
 * #### [对象头](2.%20JVM/5.%20Java对象模型/2.%20对象头.md)
+### HotSpot
+* #### [即时编译器](2.%20JVM/6.%20HotSpot/1.%20即时编译器.md)
