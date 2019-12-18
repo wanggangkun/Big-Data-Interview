@@ -106,4 +106,4 @@
 * #### [即时编译器](2.%20JVM/6.%20HotSpot/1.%20即时编译器.md)
 * #### [编译优化](2.%20JVM/6.%20HotSpot/2.%20编译优化.md)
 ### 虚拟机性能监控与故障处理工具
-* #### [jps、jstack、jmap、jstat、jconsole、 jinfo、 jhat](2.%20JVM/1.%20虚拟机性能监控与故障处理工具/1.%20jps、jstack、jmap、jstat、jconsole、 jinfo、 jhat.md)
+* #### [jps、jstack、jmap、jstat、jconsole、jinfo、jhat](2.%20JVM/7.%20虚拟机性能监控与故障处理工具/1.%20jps、jstack、jmap、jstat、jconsole、jinfo、jhat.md)
