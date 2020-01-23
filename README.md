@@ -136,3 +136,4 @@
 * #### [阻塞、非阻塞、信号驱动式、同步、异步IO](3.%20Linux、IO/2.%20IO/2.%20阻塞、非阻塞、信号驱动式、同步、异步IO.md)
 * #### [零拷贝（ZeroCopy）](3.%20Linux、IO/2.%20IO/3.%20零拷贝（ZeroCopy）.md)
 * #### [BIO、NIO、AIO](3.%20Linux、IO/2.%20IO/4.%20BIO、NIO、AIO.md)
+* #### [缓冲区Buffer](3.%20Linux、IO/2.%20IO/5.%20缓冲区Buffer.md)
