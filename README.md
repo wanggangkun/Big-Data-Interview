@@ -140,3 +140,4 @@
 * #### [通道Channel](3.%20Linux、IO/2.%20IO/6.%20通道Channel.md)
 * #### [反应堆（Reactor）](3.%20Linux、IO/2.%20IO/7.%20反应堆（Reactor）.md)
 * #### [选择器（Selector）](3.%20Linux、IO/2.%20IO/8.%20选择器（Selector）.md)
+* #### [AIO](3.%20Linux、IO/2.%20IO/9.%20AIO.md)
