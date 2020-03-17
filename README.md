@@ -24,6 +24,7 @@
     - [计算机网络](#计算机网络)
     - [Spring](#Spring)
     - [Redis](#Redis)
+    - [分布式](#分布式)
     - [编程](#编程)
 
 ## Java基础篇
@@ -165,5 +166,7 @@
 * #### [Spring Boot中的AOP及日志记录应用](面试/Spring/2.%20Spring%20Boot中的AOP及日志记录应用.md)
 ### Redis
 * #### [Redis的IO多路复用](面试/Redis/1.%20Redis的IO多路复用.md)
+### 分布式
+* #### [分布式锁](面试/分布式/1.%20分布式锁.md)
 ### 编程
 * #### [LeetCode-9-回文数](面试/编程/1.%20LeetCode-9-回文数.md)
