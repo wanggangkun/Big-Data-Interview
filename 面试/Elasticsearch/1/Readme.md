@@ -1,0 +1,1 @@
+为什么用Elasticsearch做全文搜索而不用MySQL
