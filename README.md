@@ -29,6 +29,7 @@
     - [JVM](#JVM面试)
     - [设计模式](#设计模式)
     - [多线程](#多线程面试)
+    - [JDK](#JDK)
     - [编程](#编程)
 
 ## Java基础篇
@@ -183,6 +184,8 @@
 * #### [单例模式](面试/设计模式/1.%20单例模式.md)
 ### 多线程面试
 * #### [Synchronized与ReentrantLock区别](面试/多线程/1.%20Synchronized与ReentrantLock区别.md)
+### JDK
+* #### [ArrayList与LinkedList区别](面试/JDK/1.%20ArrayList与LinkedList区别.md)
 ### 编程
 * #### [LeetCode-9-回文数](面试/编程/1.%20LeetCode-9-回文数.md)
 * #### [LeetCode-面试题40-最小的k个数](面试/编程/2.%20LeetCode-面试题40-最小的k个数.md)
