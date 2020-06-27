@@ -177,6 +177,7 @@
 * #### [什么是Redis](6.%20Redis/Redis基础/1.%20什么是Redis.md)
 * #### [Redis功能一览](6.%20Redis/Redis基础/2.%20Redis功能一览.md)
 * #### [访问 Redis 中的海量数据—scan](6.%20Redis/Redis基础/3.%20访问%20Redis%20中的海量数据—scan.md)
+* #### [Redis 事务](6.%20Redis/Redis基础/4.%20Redis%20事务.md)
 * #### [Redis事务浅析与ACID特性介绍](6.%20Redis/Redis基础/10.%20Redis事务浅析与ACID特性介绍.md)
 ## 面试
 ### 计算机网络
