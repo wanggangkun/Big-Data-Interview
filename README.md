@@ -179,6 +179,7 @@
 * #### [访问 Redis 中的海量数据—scan](6.%20Redis/Redis基础/3.%20访问%20Redis%20中的海量数据—scan.md)
 * #### [Redis 事务](6.%20Redis/Redis基础/4.%20Redis%20事务.md)
 * #### [Redis中的事件驱动模型](6.%20Redis/Redis基础/5.%20Redis%20中的事件驱动模型.md)
+* #### [Redis主从复制](6.%20Redis/Redis基础/6.%20Redis主从复制.md)
 * #### [Redis事务浅析与ACID特性介绍](6.%20Redis/Redis基础/10.%20Redis事务浅析与ACID特性介绍.md)
 ## 面试
 ### 计算机网络
