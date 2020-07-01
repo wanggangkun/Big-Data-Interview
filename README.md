@@ -181,6 +181,7 @@
 * #### [Redis中的事件驱动模型](6.%20Redis/Redis基础/5.%20Redis%20中的事件驱动模型.md)
 * #### [Redis主从复制](6.%20Redis/Redis基础/6.%20Redis主从复制.md)
 * #### [Redis内存淘汰](6.%20Redis/Redis基础/7.%20Redis内存淘汰.md)
+* #### [Redis缓存模式](6.%20Redis/Redis基础/8.%20Redis缓存模式.md)
 * #### [Redis事务浅析与ACID特性介绍](6.%20Redis/Redis基础/10.%20Redis事务浅析与ACID特性介绍.md)
 ## 面试
 ### 计算机网络
