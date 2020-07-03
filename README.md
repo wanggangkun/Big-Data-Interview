@@ -184,6 +184,7 @@
 * #### [Redis缓存模式](6.%20Redis/Redis基础/8.%20Redis缓存模式.md)
 * #### [Redis命令的执行过程](6.%20Redis/Redis基础/9.%20Redis命令的执行过程.md)
 * #### [Redis事务浅析与ACID特性介绍](6.%20Redis/Redis基础/10.%20Redis事务浅析与ACID特性介绍.md)
+* #### [Redis如何处理客户端连接](6.%20Redis/Redis基础/11.%20Redis如何处理客户端连接.md)
 ## 面试
 ### 计算机网络
 * #### [HTTPS的加密机制](面试/计算机网络/1.%20HTTPS的加密机制.md)
