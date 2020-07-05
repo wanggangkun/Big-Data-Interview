@@ -186,6 +186,7 @@
 * #### [Redis事务浅析与ACID特性介绍](6.%20Redis/Redis基础/10.%20Redis事务浅析与ACID特性介绍.md)
 * #### [Redis如何处理客户端连接](6.%20Redis/Redis基础/11.%20Redis如何处理客户端连接.md)
 * #### [浅析Redis主从复制](6.%20Redis/Redis基础/12.%20浅析Redis主从复制.md)
+* #### [使用快照和AOF将Redis数据持久化到硬盘中](6.%20Redis/Redis基础/13.%20使用快照和AOF将Redis数据持久化到硬盘中.md)
 ## 面试
 ### 计算机网络
 * #### [HTTPS的加密机制](面试/计算机网络/1.%20HTTPS的加密机制.md)
