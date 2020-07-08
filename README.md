@@ -189,6 +189,7 @@
 * #### [使用快照和AOF将Redis数据持久化到硬盘中](6.%20Redis/Redis基础/13.%20使用快照和AOF将Redis数据持久化到硬盘中.md)
 * #### [数据库redisDb与键过期删除策略](6.%20Redis/Redis基础/14.%20数据库redisDb与键过期删除策略.md)
 * #### [Redis分布式锁](6.%20Redis/Redis基础/16.%20Redis%20分布式锁.md)
+* #### [Redis分布式锁进化史](6.%20Redis/Redis基础/17.%20Redis分布式锁进化史.md)
 ## 面试
 ### 计算机网络
 * #### [HTTPS的加密机制](面试/计算机网络/1.%20HTTPS的加密机制.md)
