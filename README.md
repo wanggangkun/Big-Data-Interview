@@ -23,6 +23,7 @@
 - [数据结构与算法](#数据结构与算法)
 - [Redis](#Redis)
     - [Redis基础](#Redis基础)
+    - [redis内部数据结构](#redis内部数据结构)
 - [面试](#面试)
     - [计算机网络](#计算机网络)
     - [Spring](#Spring)
@@ -192,6 +193,8 @@
 * #### [Redis分布式锁进化史](6.%20Redis/Redis基础/17.%20Redis分布式锁进化史.md)
 * #### [Redis面试常见问题](6.%20Redis/Redis基础/18.%20Redis面试常见问题.md)
 * #### [Redis高并发](6.%20Redis/Redis基础/19.%20Redis高并发.md)
+### redis内部数据结构
+* #### [Redis的基础数据结构概览](6.%20Redis/redis内部数据结构/Redis%20的基础数据结构概览.md)
 ## 面试
 ### 计算机网络
 * #### [HTTPS的加密机制](面试/计算机网络/1.%20HTTPS的加密机制.md)
