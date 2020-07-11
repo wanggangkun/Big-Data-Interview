@@ -22,6 +22,7 @@
     - [分布式理论](#分布式理论)
 - [数据结构与算法](#数据结构与算法)
 - [Redis](#Redis)
+    - [Redis基础](#Redis基础)
 - [面试](#面试)
     - [计算机网络](#计算机网络)
     - [Spring](#Spring)
@@ -171,7 +172,26 @@
 ## 数据结构与算法
 * #### [背包九讲——Java详解](5.%20数据结构与算法/1.%20背包九讲——Java详解.md)
 ## Redis
-* #### [缓存异常问题](6.%20Redis/1.%20缓存异常问题.md)
+### Redis基础
+* #### [缓存异常问题](6.%20Redis/Redis基础/0.%20缓存异常问题.md)
+* #### [什么是Redis](6.%20Redis/Redis基础/1.%20什么是Redis.md)
+* #### [Redis功能一览](6.%20Redis/Redis基础/2.%20Redis功能一览.md)
+* #### [访问 Redis 中的海量数据—scan](6.%20Redis/Redis基础/3.%20访问%20Redis%20中的海量数据—scan.md)
+* #### [Redis 事务](6.%20Redis/Redis基础/4.%20Redis%20事务.md)
+* #### [Redis中的事件驱动模型](6.%20Redis/Redis基础/5.%20Redis%20中的事件驱动模型.md)
+* #### [Redis主从复制](6.%20Redis/Redis基础/6.%20Redis主从复制.md)
+* #### [Redis内存淘汰](6.%20Redis/Redis基础/7.%20Redis内存淘汰.md)
+* #### [Redis缓存模式](6.%20Redis/Redis基础/8.%20Redis缓存模式.md)
+* #### [Redis命令的执行过程](6.%20Redis/Redis基础/9.%20Redis命令的执行过程.md)
+* #### [Redis事务浅析与ACID特性介绍](6.%20Redis/Redis基础/10.%20Redis事务浅析与ACID特性介绍.md)
+* #### [Redis如何处理客户端连接](6.%20Redis/Redis基础/11.%20Redis如何处理客户端连接.md)
+* #### [浅析Redis主从复制](6.%20Redis/Redis基础/12.%20浅析Redis主从复制.md)
+* #### [使用快照和AOF将Redis数据持久化到硬盘中](6.%20Redis/Redis基础/13.%20使用快照和AOF将Redis数据持久化到硬盘中.md)
+* #### [数据库redisDb与键过期删除策略](6.%20Redis/Redis基础/14.%20数据库redisDb与键过期删除策略.md)
+* #### [Redis分布式锁](6.%20Redis/Redis基础/16.%20Redis%20分布式锁.md)
+* #### [Redis分布式锁进化史](6.%20Redis/Redis基础/17.%20Redis分布式锁进化史.md)
+* #### [Redis面试常见问题](6.%20Redis/Redis基础/18.%20Redis面试常见问题.md)
+* #### [Redis高并发](6.%20Redis/Redis基础/19.%20Redis高并发.md)
 ## 面试
 ### 计算机网络
 * #### [HTTPS的加密机制](面试/计算机网络/1.%20HTTPS的加密机制.md)
