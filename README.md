@@ -196,7 +196,8 @@
 ### redis内部数据结构
 * #### [Redis的基础数据结构概览](6.%20Redis/redis内部数据结构/Redis%20的基础数据结构概览.md)
 * #### [探索Redis设计与实现2：Redis内部数据结构详解——dict](6.%20Redis/redis内部数据结构/探索Redis设计与实现2：Redis内部数据结构详解——dict.md)
-* #### [探索Redis设计与实现3：Redis内部数据结构详解——sds](/6.%20Redis/redis内部数据结构/探索Redis设计与实现3：Redis内部数据结构详解——sds.md)
+* #### [探索Redis设计与实现3：Redis内部数据结构详解——sds](6.%20Redis/redis内部数据结构/探索Redis设计与实现3：Redis内部数据结构详解——sds.md)
+* #### [探索Redis设计与实现4：Redis内部数据结构详解——ziplist](6.%20Redis/redis内部数据结构/探索Redis设计与实现4：Redis内部数据结构详解——ziplist.md)
 ## 面试
 ### 计算机网络
 * #### [HTTPS的加密机制](面试/计算机网络/1.%20HTTPS的加密机制.md)
