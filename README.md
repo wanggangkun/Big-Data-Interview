@@ -24,6 +24,7 @@
 - [Redis](#Redis)
     - [Redis基础](#Redis基础)
     - [redis内部数据结构](#redis内部数据结构)
+- [Git](#Git)
 - [面试](#面试)
     - [计算机网络](#计算机网络)
     - [Spring](#Spring)
@@ -201,6 +202,8 @@
 * #### [探索Redis设计与实现5：Redis内部数据结构详解——quicklist](6.%20Redis/redis内部数据结构/探索Redis设计与实现5：Redis内部数据结构详解——quicklist.md)
 * #### [探索Redis设计与实现6：Redis内部数据结构详解——skiplist](6.%20Redis/redis内部数据结构/探索Redis设计与实现6：Redis内部数据结构详解——skiplist.md)
 * #### [探索Redis设计与实现7：Redis内部数据结构详解——intset](6.%20Redis/redis内部数据结构/探索Redis设计与实现7：Redis内部数据结构详解——intset.md)
+## Git
+* #### [合并](7.%20Git/1、合并.md)
 ## 面试
 ### 计算机网络
 * #### [HTTPS的加密机制](面试/计算机网络/1.%20HTTPS的加密机制.md)
