@@ -204,6 +204,7 @@
 * #### [探索Redis设计与实现7：Redis内部数据结构详解——intset](6.%20Redis/redis内部数据结构/探索Redis设计与实现7：Redis内部数据结构详解——intset.md)
 ## Git
 * #### [合并](7.%20Git/1、合并.md)
+* #### [git回退](7.%20Git/3、git回退.md)
 ## 面试
 ### 计算机网络
 * #### [HTTPS的加密机制](面试/计算机网络/1.%20HTTPS的加密机制.md)
