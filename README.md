@@ -206,6 +206,7 @@
 * #### [合并](7.%20Git/1、合并.md)
 * #### [git回退](7.%20Git/3、git回退.md)
 * #### [git stash](7.%20Git/4、git%20stash.md)
+* #### [Git忽略文件.gitignore的使用](7.%20Git/6、Git忽略文件.gitignore的使用.md)
 ## 面试
 ### 计算机网络
 * #### [HTTPS的加密机制](面试/计算机网络/1.%20HTTPS的加密机制.md)
