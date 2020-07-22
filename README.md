@@ -128,6 +128,7 @@
 ### HotSpot
 * #### [即时编译器](2.%20JVM/6.%20HotSpot/1.%20即时编译器.md)
 * #### [编译优化](2.%20JVM/6.%20HotSpot/2.%20编译优化.md)
+* #### [HotSpot的启动](2.%20JVM/6.%20HotSpot/3.%20HotSpot的启动.md)
 ### 虚拟机性能监控与故障处理工具
 * #### [jps、jstack、jmap、jstat、jconsole、jinfo、jhat](2.%20JVM/7.%20虚拟机性能监控与故障处理工具/1.%20jps、jstack、jmap、jstat、jconsole、jinfo、jhat.md)
 * #### [javap](2.%20JVM/7.%20虚拟机性能监控与故障处理工具/2.%20javap.md)
