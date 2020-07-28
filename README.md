@@ -133,6 +133,7 @@
 * #### [HotSpot的启动](2.%20JVM/6.%20HotSpot/3.%20HotSpot的启动.md)
 * #### [类加载机制流程](2.%20JVM/6.%20HotSpot/4.%20类加载机制流程.md)
 * #### [JVM源码分析之Java类加载过程](2.%20JVM/6.%20HotSpot/5.%20JVM源码分析之Java类加载过程.md)
+* #### [HotSpotVM对象机制实现浅析](2.%20JVM/6.%20HotSpot/6.%20HotSpotVM%20对象机制实现浅析.md)
 ### 虚拟机性能监控与故障处理工具
 * #### [jps、jstack、jmap、jstat、jconsole、jinfo、jhat](2.%20JVM/7.%20虚拟机性能监控与故障处理工具/1.%20jps、jstack、jmap、jstat、jconsole、jinfo、jhat.md)
 * #### [javap](2.%20JVM/7.%20虚拟机性能监控与故障处理工具/2.%20javap.md)
