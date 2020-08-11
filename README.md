@@ -230,6 +230,7 @@
 * #### [Unicode字符编码](8.%20操作系统/9.%20Unicode字符编码.md)
 ## 数据库
 * #### [Hive group by操作](9.%20数据库/1、Hive%20group%20by操作.md)
+* #### [MySql执行计划explain](9.%20数据库/2、MySql执行计划explain.md)
 ## 面试
 ### 计算机网络
 * #### [HTTPS的加密机制](面试/计算机网络/1.%20HTTPS的加密机制.md)
