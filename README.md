@@ -232,6 +232,7 @@
 * #### [Hive group by操作](9.%20数据库/1、Hive%20group%20by操作.md)
 * #### [MySql执行计划explain](9.%20数据库/2、MySql执行计划explain.md)
 * #### [聚合函数](9.%20数据库/3、聚合函数.md)
+* #### [groupby函数](9.%20数据库/4、groupby函数.md)
 ## 面试
 ### 计算机网络
 * #### [HTTPS的加密机制](面试/计算机网络/1.%20HTTPS的加密机制.md)
