@@ -247,6 +247,7 @@
 ## HBase
 * #### [Hbase简介](11.%20HBase/1.%20Hbase简介.md)
 * #### [Hbase系统架构及数据结构](11.%20HBase/2.%20Hbase系统架构及数据结构.md)
+* #### [Hbase定位](11.%20HBase/3.%20Hbase定位.md)
 ## 面试
 ### 计算机网络
 * #### [HTTPS的加密机制](面试/计算机网络/1.%20HTTPS的加密机制.md)
