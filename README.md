@@ -249,6 +249,7 @@
 * #### [Hbase系统架构及数据结构](11.%20HBase/2.%20Hbase系统架构及数据结构.md)
 * #### [Hbase定位](11.%20HBase/3.%20Hbase定位.md)
 * #### [Hbase_Shell](11.%20HBase/4.%20Hbase_Shell.md)
+* #### [Hbase API的使用](11.%20HBase/5.%20Hbase%20API%20的使用.md)
 ## 面试
 ### 计算机网络
 * #### [HTTPS的加密机制](面试/计算机网络/1.%20HTTPS的加密机制.md)
