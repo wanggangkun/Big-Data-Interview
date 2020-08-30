@@ -252,6 +252,7 @@
 * #### [Hbase API的使用](11.%20HBase/5.%20Hbase%20API%20的使用.md)
 * #### [Hbase_Java_API](11.%20HBase/6.%20Hbase_Java_API.md)
 * #### [Hbase的SQL中间层-Phoenix](11.%20HBase/7.%20Hbase的SQL中间层-Phoenix.md)
+* #### [Hbase过滤器详解](11.%20HBase/8.%20Hbase过滤器详解.md)
 ## 面试
 ### 计算机网络
 * #### [HTTPS的加密机制](面试/计算机网络/1.%20HTTPS的加密机制.md)
