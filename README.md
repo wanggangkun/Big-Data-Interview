@@ -254,6 +254,7 @@
 * #### [Hbase的SQL中间层-Phoenix](11.%20HBase/7.%20Hbase的SQL中间层-Phoenix.md)
 * #### [Hbase过滤器详解](11.%20HBase/8.%20Hbase过滤器详解.md)
 * #### [Hbase如何设计rowkey](11.%20HBase/9.%20Hbase如何设计rowkey.md)
+* #### [HBase冷热分离](11.%20HBase/10.%20HBase冷热分离.md)
 ## 面试
 ### 计算机网络
 * #### [HTTPS的加密机制](面试/计算机网络/1.%20HTTPS的加密机制.md)
