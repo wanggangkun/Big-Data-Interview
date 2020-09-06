@@ -29,6 +29,7 @@
 - [数据库](#数据库)
 - [Meavn](#Meavn)
 - [HBase](#HBase)
+- [Hive](#Hive)
 - [面试](#面试)
     - [计算机网络](#计算机网络)
     - [Spring](#Spring)
@@ -257,6 +258,8 @@
 * #### [HBase冷热分离](11.%20HBase/10.%20HBase冷热分离.md)
 * #### [Hbase容灾与备份](11.%20HBase/11.%20Hbase容灾与备份.md)
 * #### [Hbase协处理器详解](11.%20HBase/12.%20Hbase协处理器详解.md)
+## Hive
+* #### [Hive简介及核心概念](12.%20Hive/1.%20Hive简介及核心概念.md)
 ## 面试
 ### 计算机网络
 * #### [HTTPS的加密机制](面试/计算机网络/1.%20HTTPS的加密机制.md)
