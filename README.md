@@ -267,6 +267,7 @@
 * #### [Hive适用场景](12.%20Hive/6.%20Hive适用场景.md)
 * #### [Hive常用DDL操作](12.%20Hive/7.%20Hive常用DDL操作.md)
 * #### [Hive常用DML操作](12.%20Hive/8.%20Hive常用DML操作.md)
+* #### [HiveCLI和Beeline命令行的基本使用](12.%20Hive/9.%20HiveCLI和Beeline命令行的基本使用.md)
 ## 面试
 ### 计算机网络
 * #### [HTTPS的加密机制](面试/计算机网络/1.%20HTTPS的加密机制.md)
