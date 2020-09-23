@@ -270,6 +270,7 @@
 * #### [HiveCLI和Beeline命令行的基本使用](12.%20Hive/9.%20HiveCLI和Beeline命令行的基本使用.md)
 * #### [Hive之Java API](12.%20Hive/10.%20Hive%20之%20Java%20API.md)
 * #### [HiveToMR](12.%20Hive/11.%20HiveToMR.md)
+* #### [Impala和hive的查询有哪些区别](12.%20Hive/12.%20Impala和hive的查询有哪些区别.md)
 ## 面试
 ### 计算机网络
 * #### [HTTPS的加密机制](面试/计算机网络/1.%20HTTPS的加密机制.md)
