@@ -271,6 +271,7 @@
 * #### [Hive之Java API](12.%20Hive/10.%20Hive%20之%20Java%20API.md)
 * #### [HiveToMR](12.%20Hive/11.%20HiveToMR.md)
 * #### [Impala和hive的查询有哪些区别](12.%20Hive/12.%20Impala和hive的查询有哪些区别.md)
+* #### [调优1](12.%20Hive/13.%20调优1.md)
 ## 面试
 ### 计算机网络
 * #### [HTTPS的加密机制](面试/计算机网络/1.%20HTTPS的加密机制.md)
