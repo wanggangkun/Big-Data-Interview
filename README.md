@@ -277,6 +277,7 @@
 ## Spark
 * #### [spark基本概念](13.%20Spark/1、spark基本概念.md)
 * #### [spark宽依赖与窄依赖](13.%20Spark/2、spark宽依赖与窄依赖.md)
+* #### [spark分区策略](13.%20Spark/3、spark分区策略.md)
 ## 面试
 ### 计算机网络
 * #### [HTTPS的加密机制](面试/计算机网络/1.%20HTTPS的加密机制.md)
