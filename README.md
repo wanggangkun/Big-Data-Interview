@@ -279,6 +279,7 @@
 * #### [spark宽依赖与窄依赖](13.%20Spark/2、spark宽依赖与窄依赖.md)
 * #### [spark分区策略](13.%20Spark/3、spark分区策略.md)
 * #### [reduceByKey和groupByKey](13.%20Spark/4、reduceByKey和groupByKey.md)
+* #### [Spark通信机制](13.%20Spark/6、Spark通信机制.md)
 ## 面试
 ### 计算机网络
 * #### [HTTPS的加密机制](面试/计算机网络/1.%20HTTPS的加密机制.md)
