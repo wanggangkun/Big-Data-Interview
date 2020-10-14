@@ -287,6 +287,7 @@
 * #### [BlockManager初始化](13.%20Spark/11、BlockManager初始化.md)
 * #### [BlockManager之block数据的读写](13.%20Spark/12、BlockManager之block数据的读写.md)
 * #### [Spark MapOutputTracker浅析](13.%20Spark/13、Spark%20MapOutputTracker浅析.md)
+* #### [数据本地化级别](13.%20Spark/14、数据本地化级别.md)
 ## 面试
 ### 计算机网络
 * #### [HTTPS的加密机制](面试/计算机网络/1.%20HTTPS的加密机制.md)
