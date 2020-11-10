@@ -344,3 +344,4 @@ Java开发、大数据面试知识点，多为网上公开资料，留以自用�
 * #### [MyBatis初始化（一）之加载mybatis-config](源码/MyBatis/14.%20MyBatis初始化（一）之加载mybatis-config.md)
 * #### [MyBatis初始化（二）之加载Mapper映射配置文件](源码/MyBatis/15.%20MyBatis初始化（二）之加载Mapper映射配置文件.md)
 * #### [MyBatis初始化（三）之加载Statement配置](源码/MyBatis/16.%20MyBatis初始化（三）之加载Statement配置.md)
+* #### [MyBatis初始化（四）之加载注解配置](源码/MyBatis/17.%20MyBatis初始化（四）之加载注解配置.md)
