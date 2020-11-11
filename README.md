@@ -346,3 +346,4 @@ Java开发、大数据面试知识点，多为网上公开资料，留以自用�
 * #### [MyBatis初始化（三）之加载Statement配置](源码/MyBatis/16.%20MyBatis初始化（三）之加载Statement配置.md)
 * #### [MyBatis初始化（四）之加载注解配置](源码/MyBatis/17.%20MyBatis初始化（四）之加载注解配置.md)
 * #### [SQL初始化（上）之SqlNode](源码/MyBatis/18.%20SQL初始化（上）之SqlNode.md)
+* #### [SQL初始化（下）之SqlSource](源码/MyBatis/19.%20SQL初始化（下）之SqlSource.md)
