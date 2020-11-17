@@ -354,3 +354,4 @@ Java开发、大数据面试知识点，多为网上公开资料，留以自用�
 * #### [会话SqlSession](源码/MyBatis/25.%20会话SqlSession.md)
 * #### [插件体系（一）之原理](源码/MyBatis/26.%20插件体系（一）之原理.md)
 * #### [插件体系（二）之PageHelper](源码/MyBatis/27.%20插件体系（二）之PageHelper.md)
+* #### [Spring集成（一）之调试环境搭建](源码/MyBatis/28.%20Spring集成（一）之调试环境搭建.md)
