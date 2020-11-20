@@ -296,6 +296,7 @@ Java开发、大数据面试知识点，多为网上公开资料，留以自用�
 * #### [SparkContext执行](13.%20Spark/18、SparkContext执行.md)
 * #### [Shuffle Manager](13.%20Spark/19、Shuffle%20Manager.md)
 * #### [Shuffle问题及调优](13.%20Spark/21、Shuffle问题及调优.md)
+* #### [Spark Standalone mode启动](13.%20Spark/22、Spark%20Standalone%20mode%20启动.md)
 ## 面试
 ### 计算机网络
 * #### [HTTPS的加密机制](面试/计算机网络/1.%20HTTPS的加密机制.md)
