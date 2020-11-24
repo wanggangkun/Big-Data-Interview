@@ -363,3 +363,4 @@ Java开发、大数据面试知识点，多为网上公开资料，留以自用�
 * #### [Spring集成（三）之SqlSession](源码/MyBatis/30.%20Spring集成（三）之SqlSession.md)
 * #### [Spring集成（四）之事务](源码/MyBatis/31.%20Spring集成（四）之事务.md)
 * #### [Spring集成（五）之批处理](源码/MyBatis/32.%20Spring集成（五）之批处理.md)
+* #### [MyBatis面试题](源码/MyBatis/33.%20MyBatis面试题.md)
