@@ -33,7 +33,7 @@ Java开发、大数据面试知识点，多为网上公开资料，留以自用�
 - [Spark](#Spark)
 - [面试](#面试)
     - [计算机网络](#计算机网络)
-    - [spring](#spring)
+    - [Spring面试](#Spring面试)
     - [Redis](#Redis)
     - [Elasticsearch](#Elasticsearch)
     - [分布式](#分布式环境)
@@ -306,7 +306,7 @@ Java开发、大数据面试知识点，多为网上公开资料，留以自用�
 ### 计算机网络
 * #### [HTTPS的加密机制](面试/计算机网络/1.%20HTTPS的加密机制.md)
 * #### [三次握手与四次挥手](面试/计算机网络/2.%20三次握手与四次挥手.md)
-### spring
+### Spring面试
 * #### [Spring Boot中的注解](面试/Spring/1.%20Spring%20Boot中的注解.md)
 * #### [Spring Boot中的AOP及日志记录应用](面试/Spring/2.%20Spring%20Boot中的AOP及日志记录应用.md)
 ### Redis
