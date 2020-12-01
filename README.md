@@ -369,3 +369,4 @@ Java开发、大数据面试知识点，多为网上公开资料，留以自用�
 * #### [MyBatis面试题](源码/MyBatis/33.%20MyBatis面试题.md)
 ### Spring
 * #### [IoC之深入理解Spring IoC](源码/Spring/1.%20IoC之深入理解Spring%20IoC.md)
+* #### [IoC之Spring统一资源加载策略](源码/Spring/2.%20IoC之Spring统一资源加载策略.md)
