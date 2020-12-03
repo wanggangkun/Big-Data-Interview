@@ -372,3 +372,4 @@ Java开发、大数据面试知识点，多为网上公开资料，留以自用�
 * #### [IoC之Spring统一资源加载策略](源码/Spring/2.%20IoC之Spring统一资源加载策略.md)
 * #### [IoC之加载BeanDefinition](源码/Spring/3.%20IoC之加载BeanDefinition.md)
 * #### [IoC之获取验证模型](源码/Spring/4.%20IoC之获取验证模型.md)
+* #### [IoC之获取Document对象](源码/Spring/5.%20IoC之获取Document对象.md)
