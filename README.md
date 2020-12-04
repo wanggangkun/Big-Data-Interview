@@ -374,3 +374,4 @@ Java开发、大数据面试知识点，多为网上公开资料，留以自用�
 * #### [IoC之获取验证模型](源码/Spring/4.%20IoC之获取验证模型.md)
 * #### [IoC之获取Document对象](源码/Spring/5.%20IoC之获取Document对象.md)
 * #### [IoC之注册BeanDefinitions](源码/Spring/6.%20IoC之注册BeanDefinitions.md)
+* #### [IoC之解析Bean：解析import标签](源码/Spring/7.%20IoC之解析Bean：解析import标签.md)
