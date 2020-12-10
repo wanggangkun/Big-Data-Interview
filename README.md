@@ -378,3 +378,4 @@ Java开发、大数据面试知识点，多为网上公开资料，留以自用�
 * #### [IoC之解析<bean>标签：开启解析进程](源码/Spring/8.%20IoC之解析<bean>标签：开启解析进程.md)
 * #### [IoC之解析<bean>标签：meta、lookup-method、replace-method](源码/Spring/10.%20IoC之解析<bean>标签：meta、lookup-method、replace-method.md)
 * #### [IoC之解析<bean>标签：constructor-arg、property、qualifier](源码/Spring/11.%20IoC之解析<bean>标签：constructor-arg、property、qualifier.md)
+* #### [IoC之解析自定义标签](源码/Spring/13.%20IoC之解析自定义标签.md)
