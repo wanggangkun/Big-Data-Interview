@@ -388,3 +388,4 @@ Java开发、大数据面试知识点，多为网上公开资料，留以自用�
 * #### [IoC之加载Bean：创建Bean（一）之主流程](源码/Spring/20.%20IoC之加载Bean：创建Bean（一）之主流程.md)
 * #### [IoC之加载Bean：创建Bean（二）之实例化Bean对象(1)](源码/Spring/21.%20IoC之加载Bean：创建Bean（二）之实例化Bean对象(1).md)
 * #### [IoC之加载Bean：创建Bean（三）之实例化Bean对象(2)](源码/Spring/22.%20IoC之加载Bean：创建Bean（三）之实例化Bean对象(2).md)
+* #### [IoC之加载Bean：创建Bean（四）之属性填充](源码/Spring/23.%20IoC之加载Bean：创建Bean（四）之属性填充.md)
