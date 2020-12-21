@@ -392,3 +392,4 @@ Java开发、大数据面试知识点，多为网上公开资料，留以自用�
 * #### [IoC之加载Bean：创建Bean（五）之循环依赖处理](源码/Spring/24.%20IoC之加载Bean：创建Bean（五）之循环依赖处理.md)
 * #### [IoC之加载Bean：创建Bean（六）之初始化Bean对象](源码/Spring/25.%20IoC之加载Bean：创建Bean（六）之初始化Bean对象.md)
 * #### [IoC之加载Bean：总结](源码/Spring/26.%20IoC之加载Bean：总结.md)
+* #### [IoC之深入分析BeanPostProcessor](源码/Spring/28.%20IoC之深入分析BeanPostProcessor.md)
