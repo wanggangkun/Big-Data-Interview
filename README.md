@@ -394,3 +394,4 @@ Java开发、大数据面试知识点，多为网上公开资料，留以自用�
 * #### [IoC之加载Bean：总结](源码/Spring/26.%20IoC之加载Bean：总结.md)
 * #### [IoC之深入分析BeanPostProcessor](源码/Spring/28.%20IoC之深入分析BeanPostProcessor.md)
 * #### [IoC之深入分析Bean的生命周期](源码/Spring/30.%20IoC之深入分析Bean的生命周期.md)
+* #### [IoC之深入分析PropertyPlaceholderConfigurer](/源码/Spring/32.%20IoC之深入分析PropertyPlaceholderConfigurer.md)
