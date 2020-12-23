@@ -396,3 +396,4 @@ Java开发、大数据面试知识点，多为网上公开资料，留以自用�
 * #### [IoC之深入分析Bean的生命周期](源码/Spring/30.%20IoC之深入分析Bean的生命周期.md)
 * #### [IoC之深入分析PropertyPlaceholderConfigurer](/源码/Spring/32.%20IoC之深入分析PropertyPlaceholderConfigurer.md)
 * #### [IoC之深入分析PropertyOverrideConfigurer](源码/Spring/34.%20IoC之深入分析PropertyOverrideConfigurer.md)
+* #### [IoC之自定义类型转换器](源码/Spring/36.%20IoC之自定义类型转换器.md)
