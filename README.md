@@ -398,3 +398,4 @@ Java开发、大数据面试知识点，多为网上公开资料，留以自用�
 * #### [IoC之深入分析PropertyOverrideConfigurer](源码/Spring/34.%20IoC之深入分析PropertyOverrideConfigurer.md)
 * #### [IoC之自定义类型转换器](源码/Spring/36.%20IoC之自定义类型转换器.md)
 * #### [IoC之分析BeanWrapper](源码/Spring/37.%20IoC之分析BeanWrapper.md)
+* #### [IoC之Bean的实例化策略：InstantiationStrategy](源码/Spring/38.%20IoC之Bean的实例化策略：InstantiationStrategy.md)
