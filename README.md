@@ -401,3 +401,4 @@ Java开发、大数据面试知识点，多为网上公开资料，留以自用�
 * #### [IoC之Bean的实例化策略：InstantiationStrategy](源码/Spring/38.%20IoC之Bean的实例化策略：InstantiationStrategy.md)
 * #### [IoC之BeanDefinition注册表：BeanDefinitionRegistry](源码/Spring/39.%20IoC之BeanDefinition注册表：BeanDefinitionRegistry.md)
 * #### [环境&属性：PropertySource、Environment、Profile](源码/Spring/40.%20环境%26属性：PropertySource、Environment、Profile.md)
+* #### [ApplicationContext相关接口架构分析](源码/Spring/41.%20ApplicationContext相关接口架构分析.md)
