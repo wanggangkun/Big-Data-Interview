@@ -408,3 +408,4 @@ Java开发、大数据面试知识点，多为网上公开资料，留以自用�
 ### SpringMVC
 * #### [容器的初始化（一）之Root WebApplicationContext容器](源码/Spring%20MVC/1.%20容器的初始化（一）之Root%20WebApplicationContext容器.md)
 * #### [容器的初始化（二）之Servlet WebApplicationContext容器](源码/Spring%20MVC/2.%20容器的初始化（二）之Servlet%20WebApplicationContext容器.md)
+* #### [容器的初始化（三）之Servlet3.0集成](源码/Spring%20MVC/3.%20容器的初始化（三）之Servlet3.0集成.md)
