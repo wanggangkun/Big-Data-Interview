@@ -413,3 +413,4 @@ Java开发、大数据面试知识点，多为网上公开资料，留以自用�
 * #### [组件一览](源码/Spring%20MVC/5.%20组件一览.md)
 * #### [HandlerMapping组件（一）之AbstractHandlerMapping](源码/Spring%20MVC/7.%20HandlerMapping组件（一）之AbstractHandlerMapping.md)
 * #### [HandlerMapping组件（二）之HandlerInterceptor](源码/Spring%20MVC/8.%20HandlerMapping组件（二）之HandlerInterceptor.md)
+* #### [HandlerMapping组件（三）之AbstractHandlerMethodMapping](源码/Spring%20MVC/9.%20HandlerMapping组件（三）之AbstractHandlerMethodMapping.md)
