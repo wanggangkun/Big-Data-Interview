@@ -421,3 +421,4 @@ Java开发、大数据面试知识点，多为网上公开资料，留以自用�
 * #### [HandlerAdapter组件（四）之HandlerMethodReturnValueHandler](源码/Spring%20MVC/14.%20HandlerAdapter组件（四）之HandlerMethodReturnValueHandler.md)
 * #### [HandlerAdapter组件（五）之HttpMessageConverter](源码/Spring%20MVC/15.%20HandlerAdapter组件（五）之HttpMessageConverter.md)
 * #### [HandlerExceptionResolver组件](源码/Spring%20MVC/16.%20HandlerExceptionResolver组件.md)
+* #### [RequestToViewNameTranslator组件](源码/Spring%20MVC/17.%20RequestToViewNameTranslator组件.md)
