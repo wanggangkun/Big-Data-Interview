@@ -1,0 +1,1 @@
+LocaleResolver组件
