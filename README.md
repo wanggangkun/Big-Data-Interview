@@ -424,3 +424,4 @@ Java开发、大数据面试知识点，多为网上公开资料，留以自用�
 * #### [RequestToViewNameTranslator组件](源码/Spring%20MVC/17.%20RequestToViewNameTranslator组件.md)
 * #### [LocaleResolver组件](源码/Spring%20MVC/18.%20LocaleResolver组件.md)
 * #### [ThemeResolver组件](源码/Spring%20MVC/19.%20ThemeResolver组件.md)
+* #### [ViewResolver组件](源码/Spring%20MVC/20.%20ViewResolver组件.md)
